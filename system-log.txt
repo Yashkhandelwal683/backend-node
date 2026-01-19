@@ -1,0 +1,805 @@
+
+Time: 1/19/2026, 10:47:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 220.13 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 70.81 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 70.27 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 66.91 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 85.25 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 81.73 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 103.31 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 90.22 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 66.23 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 148.06 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 78.52 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 131.03 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:48:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 167.25 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 95.36 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 63.17 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 81.17 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 71.67 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 76.52 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 72.50 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 68.92 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 83.03 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 77.52 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 113.53 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 97.59 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:49:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 68.91 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 82.30 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 66.78 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 75.33 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 83.14 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 116.30 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 178.50 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 483.72 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 489.94 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 465.73 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 413.11 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 364.56 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:50:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 572.45 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 581.36 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 491.59 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 517.31 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 580.88 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 652.48 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 652.98 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 642.16 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 624.84 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 626.98 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 632.50 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 651.83 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:51:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 651.63 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 645.09 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 639.44 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 638.47 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 585.53 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 647.78 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 658.92 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 659.03 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 661.61 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 664.34 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 587.59 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 587.31 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:52:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 585.09 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 583.25 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 584.17 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 587.14 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 621.61 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 608.34 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 608.63 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 609.23 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 568.02 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 498.97 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 481.95 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 470.25 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:53:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 495.52 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 494.42 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 488.16 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 488.66 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 497.27 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 494.56 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 441.33 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 446.81 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 472.42 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 471.55 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 368.00 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 372.25 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:54:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 325.23 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 331.36 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 333.50 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 335.78 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 334.36 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 346.42 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 345.53 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 344.05 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 300.95 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 299.69 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 301.28 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 302.08 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:55:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 384.38 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 379.73 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 390.83 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 374.44 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 398.61 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 404.22 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 400.89 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:30 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 390.17 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:35 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 392.88 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:40 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 367.30 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:45 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 369.03 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:50 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 363.02 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:56:55 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 353.50 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:57:00 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 363.78 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:57:05 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 352.81 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:57:10 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 365.28 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:57:15 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 361.59 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:57:20 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 370.45 MB
+Total Memory: 16384.00 MB
+-------------------------------
+
+Time: 1/19/2026, 10:57:25 AM
+Platform: darwin
+CPU Cores: 8
+Free Memory: 373.92 MB
+Total Memory: 16384.00 MB
+-------------------------------
